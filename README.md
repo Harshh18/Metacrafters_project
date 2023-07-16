@@ -1,5 +1,11 @@
-# Metacrafters Project
+<div align= "center">
+<h1>Metacrafters Projects</h1>
 Project that has been assigned in the courses provided by Metacrafters.
+  
+<a href="https://github.com/Harshh18/Metacrafters_project"><img src="https://sloc.xyz/github/Harshh18/Metacrafters_project" alt="LOC"/></a>
+<a href="https://github.com/Harshh18/Metacrafters_project"><img src="https://visitor-badge.laobi.icu/badge?page_id=Harshh18.Metacrafters_project" alt="visitor count"/></a>
+</div>
+
 ## Description
 This repository contains the assignments that is made during the learning process. Files names has been given as the course name to avoid the confusions. Given below are the list of files and courses completed in chronological order:
 * [javascriptBeginners.js](https://github.com/Harshh18/Metacrafters_project/blob/main/javascriptBeginners.js)
