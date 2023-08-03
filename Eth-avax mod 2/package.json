@@ -1,0 +1,17 @@
+{
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "This is for the 2nd assessment of ETH PROOF: Intermediate course by metacrafters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umar Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "chai": "^4.3.7",
+    "hardhat": "^2.16.1"
+  }
+}
