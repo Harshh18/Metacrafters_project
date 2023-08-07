@@ -4,6 +4,7 @@ import "@nomicfoundation/hardhat-toolbox";
 import "hardhat-circom";
 // circuits
 import circuits = require('./circuits.config.json')
+import 'dotenv/config';
 
 // set env var to the root of the project
 process.env.BASE_PATH = __dirname;
@@ -25,7 +26,7 @@ const config: HardhatUserConfig = {
   networks:{
     mumbai:{
       url: `https://rpc.ankr.com/polygon_mumbai`,
-      accounts: ['a8ff390e4499edf157ef7b41c5d3089c1734da141a8bf71a4380bc113f3dcaa6']
+      accounts: ['process.env.PRIVATEKEY']
     }
   },
   circom: {
